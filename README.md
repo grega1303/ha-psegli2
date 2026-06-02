@@ -1,6 +1,6 @@
 # PSEG Long Island Home Assistant Integration
 
-A Home Assistant integration for PSEG Long Island that provides automated energy usage data collection and statistics updates using a dedicated automation addon.
+this is mine A Home Assistant integration for PSEG Long Island that provides automated energy usage data collection and statistics updates using a dedicated automation addon.
 
 ## 🚀 **Architecture Overview**
 
